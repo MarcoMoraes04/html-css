@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+
+
+
+ #d2{display:none;
+
+
+ }  
+#d1:hover{color:red}
+
+#d1:hover > #d2{display:block;
+    color:white;
+    background-color: blueviolet;}
+

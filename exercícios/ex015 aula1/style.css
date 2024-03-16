@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+
+body{
+    background-color: #e0ecd4f3;
+}
+
+h1{
+    color: black;
+}
+
+h2{
+    color:blue
+}
+
+h1#principal{
+    color:chocolate;
+    text-align: center;
+}
